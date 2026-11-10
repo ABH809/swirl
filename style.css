@@ -5,6 +5,17 @@ img{
 body{
     text-align: center;
     font-family: 'Trebuchet MS';
-    background: #e78a10;
-    color: #754a11;
+    background: #CC3333;
+    color: #D9C121;
 }
+
+#navbar{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 1rem 2rem;
+    gap: 25px;
+    background-color: #00A693;
+    font-size: 20px;
+}
+    

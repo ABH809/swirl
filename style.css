@@ -1,13 +1,25 @@
 img{
     width: 500px;
+    border-radius: 10px;
 }
 
 body{
-    text-align: center;
-    font-family: 'Trebuchet MS';
-    background: #CC3333;
-    color: #D9C121;
+    font-family: 'Montserrat';
+    background: #94ccd3;
+    color: #000000;
     border: 10px dashed #990077;
+}
+
+#maintext{
+    text-align: left;
+    margin: 16px;
+}
+
+#imagecode{
+    float: right;
+    margin: 10px;
+    display: flex;
+    gap: 15px;
 }
 
 #navbar{
@@ -16,7 +28,7 @@ body{
     align-items: center;
     padding: 1rem 2rem;
     gap: 25px;
-    background-color: #00A693;
+    background-color: #00a693;
     font-size: 20px;
 }
 
@@ -36,4 +48,3 @@ button {
   border-radius: 6px;
 }
 
-    

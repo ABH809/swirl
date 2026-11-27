@@ -28,7 +28,7 @@ body{
 .card-container {
     display: grid;
     grid-template-columns: repeat(auto-fit, minmax(min(100%, 300px), 1fr));
-    gap: 40px; 
+    gap: 60px; 
     max-width: 1200px; 
     margin: 0 auto; 
     padding: 16px;
@@ -41,7 +41,7 @@ body{
     text-align: center;
     border-radius: 20px;
     width: 100%;
-    max-width: 350px;
+    max-width: 5000px;
     justify-self: center; 
 }
 
